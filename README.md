@@ -198,14 +198,5 @@ VITE_API_BASE_URL=http://localhost:8080/api
 
 ---
 
-## License
 
-This project is licensed under the MIT License.
 
----
-
-## Author
-
-Naga venkata Valli  
-GitHub: [nagavenkatavalli](https://github.com/nagavenkatavalli)  
-Repository: [student-management-system](https://github.com/nagavenkatavalli/student-management-system)
